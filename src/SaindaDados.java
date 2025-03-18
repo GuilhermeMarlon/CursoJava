@@ -18,5 +18,6 @@ public class SaindaDados {
           %n é usado para uma nova linha. */
         idade =(int) a ;  //casting de double para int.
         System.out.println(idade);
+        
     }
 }
