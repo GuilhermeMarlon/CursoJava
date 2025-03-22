@@ -17,7 +17,7 @@ Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` po
 
 A visualização `PROJETOS JAVA` permite que você gerencie suas dependências. Mais detalhes podem ser encontrados [aqui](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-
+Mudanças viram
 
 ## Getting Started
 
